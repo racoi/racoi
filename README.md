@@ -18,13 +18,10 @@ Here are some ideas to get you started:
 <!--내용 부분-->
 <h3 align="center">RACOI</h3>
 <div align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fracoi&count_bg=%23181717&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
+  <a href="https://solved.ac/racokk">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=racokk" alt="Solved.ac Mini Profile Badge"></a>&nbsp
 </div>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=racokk)](https://solved.ac/racokk)
+
 <br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
