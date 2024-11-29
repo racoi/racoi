@@ -20,8 +20,12 @@ Here are some ideas to get you started:
 <div align="left">
   <a href="https://solved.ac/racokk">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=racokk" alt="Solved.ac Mini Profile Badge"></a>&nbsp
+</div>
+<div>
   <a href="https://solved.ac/racokk">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=racokk" alt="Solved.ac v2 Profile Badge"></a>
+</div>
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=racoi" alt="Top Languages"></a>
 </div>
