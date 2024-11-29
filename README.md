@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-265A8F.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Intellij-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 </div>
 
