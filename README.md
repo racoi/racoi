@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <!--내용 부분-->
-<h3 align="left">RACOI</h3>
+<h3 align="left">YEONJU JUNG</h3>
 <div align="left">
   <a href="https://solved.ac/racokk">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=racokk" alt="Solved.ac Mini Profile Badge"></a>&nbsp
